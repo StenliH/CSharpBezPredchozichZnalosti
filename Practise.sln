@@ -3,15 +3,15 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseVol01", "PractiseVol01\PractiseVol01.csproj", "{E140B237-52CD-4495-A779-871AF5FE96B9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_045_1", "PractiseVol01\Practise_045_1.csproj", "{E140B237-52CD-4495-A779-871AF5FE96B9}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise.UnitTests", "Practise.UnitTests\Practise.UnitTests.csproj", "{4518D272-104F-4C45-B414-707FF09711DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseVol02", "PractiseVol02\PractiseVol02.csproj", "{B1867F6C-0CAE-425F-955A-ED95D12D5206}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_059_1", "PractiseVol02\Practise_059_1.csproj", "{B1867F6C-0CAE-425F-955A-ED95D12D5206}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseVol04", "PractiseVol04\PractiseVol04.csproj", "{A50B9E75-E7E4-453B-93CD-E51B7FE05AE5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_060_2", "PractiseVol04\Practise_060_2.csproj", "{A50B9E75-E7E4-453B-93CD-E51B7FE05AE5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PractiseVol05", "PractiseVol05\PractiseVol05.csproj", "{840DE776-C437-4A0A-9759-CD91A559DFAD}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_061_1", "PractiseVol05\Practise_061_1.csproj", "{840DE776-C437-4A0A-9759-CD91A559DFAD}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practise_073_1", "PractiseVol06\Practise_073_1.csproj", "{2BC8A4E8-A74D-43D4-B7ED-9F5E627AC6F2}"
 EndProject
